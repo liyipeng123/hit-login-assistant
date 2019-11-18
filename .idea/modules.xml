@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Quasar-master.iml" filepath="$PROJECT_DIR$/.idea/Quasar-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/HIT_LoginAssistant.iml" filepath="$PROJECT_DIR$/.idea/HIT_LoginAssistant.iml" />
     </modules>
   </component>
 </project>
